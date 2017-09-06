@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListTraverse\bin\Debug\DoublyLinkedListTraverse.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListTraverse\bin\Debug\DoublyLinkedListTraverse.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListTraverse\obj\x86\Debug\DoublyLinkedListTraverse.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListTraverse\obj\x86\Debug\DoublyLinkedListTraverse.pdb

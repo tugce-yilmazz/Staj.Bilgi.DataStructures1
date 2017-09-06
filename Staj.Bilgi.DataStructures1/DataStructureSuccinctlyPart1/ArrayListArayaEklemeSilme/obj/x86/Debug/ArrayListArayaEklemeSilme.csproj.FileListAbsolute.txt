@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListArayaEklemeSilme\bin\Debug\ArrayListArayaEklemeSilme.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListArayaEklemeSilme\bin\Debug\ArrayListArayaEklemeSilme.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListArayaEklemeSilme\obj\x86\Debug\ArrayListArayaEklemeSilme.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListArayaEklemeSilme\obj\x86\Debug\ArrayListArayaEklemeSilme.pdb

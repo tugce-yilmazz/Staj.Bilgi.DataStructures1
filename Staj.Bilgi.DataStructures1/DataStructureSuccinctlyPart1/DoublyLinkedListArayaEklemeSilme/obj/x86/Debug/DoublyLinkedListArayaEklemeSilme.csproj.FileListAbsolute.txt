@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListArayaEklemeSilme\bin\Debug\DoublyLinkedListArayaEklemeSilme.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListArayaEklemeSilme\bin\Debug\DoublyLinkedListArayaEklemeSilme.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListArayaEklemeSilme\obj\x86\Debug\DoublyLinkedListArayaEklemeSilme.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\DoublyLinkedListArayaEklemeSilme\obj\x86\Debug\DoublyLinkedListArayaEklemeSilme.pdb

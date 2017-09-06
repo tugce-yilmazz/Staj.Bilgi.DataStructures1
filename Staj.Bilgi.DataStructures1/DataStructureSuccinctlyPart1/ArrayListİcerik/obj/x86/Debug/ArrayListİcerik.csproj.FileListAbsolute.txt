@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListİcerik\bin\Debug\ArrayListİcerik.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListİcerik\bin\Debug\ArrayListİcerik.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListİcerik\obj\x86\Debug\ArrayListİcerik.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListİcerik\obj\x86\Debug\ArrayListİcerik.pdb

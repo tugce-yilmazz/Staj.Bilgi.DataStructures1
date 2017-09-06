@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListSayma\bin\Debug\ArrayListSayma.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListSayma\bin\Debug\ArrayListSayma.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListSayma\obj\x86\Debug\ArrayListSayma.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\ArrayListSayma\obj\x86\Debug\ArrayListSayma.pdb
